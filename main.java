@@ -1,0 +1,7 @@
+
+main()
+	{
+	Testarray();
+	FactorianExample();
+	PrimeExample();
+	}
